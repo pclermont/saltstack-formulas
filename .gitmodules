@@ -1,0 +1,3 @@
+[submodule "salt-formula"]
+	path = salt-formula
+	url = git@github.com:saltstack-formulas/salt-formula.git
